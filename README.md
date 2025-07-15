@@ -1,6 +1,6 @@
 This repository hosts the BADA Model Specification documents per model family.
 
-The BADA model specifications are licenced under the [European Union Public Licence v1.2 (EUPL)](LICENSE.txt), with additional terms described in the [Amendment to the EUPL](AMENDMENT_TO_EUPL_licence.md), reflecting EUROCONTROL's status as an international organisation.
+The BADA model specifications are licenced under the [European Union Public Licence v1.2 (EUPL)](./LICENCE.txt), with additional terms described in the [Amendment to the EUPL](./AMENDMENT_TO_EUPL_license.md), reflecting EUROCONTROL's status as an international organisation.
 
 **Note regarding a commercial Use of Tools Implementing the BADA Model Specifications.**
 
